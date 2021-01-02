@@ -41,7 +41,7 @@ The following are some global research internship positions:
 * Only For circuital branch students and mosty for computer science student
   #### Deadline: 15 November
 
-### 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
+### 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU  ------------------------------------++++++++++++++++++++++++++
 * Best Internship for students whose interest in the field of control system and robotics
   #### Deadline: 15 January
 
@@ -55,12 +55,12 @@ The following are some global research internship positions:
 #### Eligibility : CGPA>=8
 #### DeadLine: 28 October.
 
-### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
+### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)---------------++++++++++++++++++
 #### Deadline: January 15
 
 ### 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1)
 * Organized by RWTH Aachen
-#### Deadline: January 15
+#### Deadline: January 15   -----------------++++++++++++++++++++++++++++++++++
 
 ### 13. [University of Tokyo Amgem Program](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan
 * Best for Biotechnology and Life Science students
