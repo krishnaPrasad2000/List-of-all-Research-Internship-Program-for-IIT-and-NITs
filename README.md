@@ -350,7 +350,7 @@ The following are some global research internship positions:
 * Have to Pay Rs 400 for NON IIT Kanpur students
 #### Deadline: 10 March
 
-### 8. [VSRP, Tata Institute of Fundamental Research](https://www.tifr.res.in/~vsrp/apply/apply.htm)
+### 8. [VSRP, Tata Institute of Fundamental Research](https://www.tifr.res.in/~vsrp/apply/apply.htm) --------------------------++++++++++++++++++++++++++
 * Research in the areas of Astronomy, Biology, Chemistry, Computer Science, Mathematics, and Physics.
 * One of the top research institute of India
 #### Deadline: 31 January
